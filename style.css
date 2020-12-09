@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body , html{
+    height: 100%;
+}
+
+.bg{
+  background-image: url("img/bar.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.output{
+    background-color: whitesmoke;
+    width: 450px;
+    position: relative;
+    top: 25px;
+    left: 25px;
+    padding: 10px;
+    border-radius: 5px ;
+}
+#button{
+    padding: 5px;
+}
